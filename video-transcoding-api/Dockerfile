@@ -1,2 +1,2 @@
-FROM balser/go-buildbox:1.7
+FROM balser/go-buildbox:1.8
 RUN  yum install -y redis
